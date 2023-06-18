@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 flask = "*"
+praat-parselmouth = "*"
+numpy = "*"
+seaborn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
